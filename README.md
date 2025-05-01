@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [greatnnaji.com](greatnnaji.com)
 
-- 📄 Know about my experiences [https://greatnnaji-resume.tiiny.site](https://greatnnaji-resume.tiiny.site)
+- 📄 Know about my experiences [https://greatnnaji-resume.tiiny.site](https://greatnnaji-resume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatnnaji&label=Profile%20views&color=0e75b6&style=flat" alt="greatnnaji" /> </p>
 
-- 👨‍💻 All of my projects are available at [greatnnaji.com](greatnnaji.com)
+- 👨‍💻 All of my projects are available at [greatnnaji.com](https://greatnnaji.com)
 
 - 📄 Know about my experiences [view great's resume](https://greatnnaji-resume.tiiny.site/)
 

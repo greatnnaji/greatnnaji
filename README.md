@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from Ottawa</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greatnnaji&label=Profile%20views&color=0e75b6&style=flat" alt="greatnnaji" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=greatnnaji&label=Profile%20views&color=0e75b6&style=flat" alt="greatnnaji" /> </p> -->
 
 - 👨‍💻 All of my projects are available at [greatnnaji.com](https://greatnnaji.com)
 

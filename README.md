@@ -5,9 +5,9 @@
   <a href="https://greatnnaji.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-greatnnaji.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://greatnnaji-resume.tiiny.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-View-111111?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-  </a>
+<a href="https://greatnnaji-resume.tiiny.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+</a>
   <a href="https://linkedin.com/in/great-nnaji-0b570a293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>

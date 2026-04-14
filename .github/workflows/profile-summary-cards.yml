@@ -25,5 +25,5 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
-          EXCLUDE: "Processing,css"
+          EXCLUDE: "Processing,CSS"
           AUTO_PUSH: true

@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Great Nnaji</h1>
+
 <h3 align="center">Final Year Computer Science Student • Software Engineer • Building full-stack systems and backend infrastructure</h3>
 
 <p align="center">
@@ -36,8 +37,23 @@
 </p>
 
 <h3 align="left">GitHub Summary</h3>
-
 <p align="center">
   <img src="/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%" />
   <img src="/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%" />
 </p>
+
+## Stats
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=greatnnaji&theme=tokyonight&hide_border=true" />
+</div>
+
+<!-- Profile summary cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=greatnnaji&theme=tokyonight" />
+</div>
+
+<!-- Activity graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=greatnnaji&theme=tokyo-night&hide_border=true&area=true" />
+</div>

@@ -45,7 +45,7 @@
 ## Stats
 <!-- Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=greatnnaji&theme=tokyonight" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <!-- Profile summary cards -->

@@ -50,7 +50,7 @@
 
 <!-- Profile summary cards -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=greatnnaji&theme=tokyonight" />
+  <img src="https://github.com/greatnnaji/greatnnaji/raw/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </div>
 
 <!-- Activity graph -->

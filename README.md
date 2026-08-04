@@ -38,8 +38,8 @@
 
 <h3 align="left">GitHub Summary</h3>
 <p align="center">
-  <img src="/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%" />
-  <img src="/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%" />
+  <img src="/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%" />
+  <img src="/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%" />
 </p>
 
 ## Stats

@@ -55,5 +55,5 @@
 
 <!-- Activity graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=greatnnaji&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph-eight-phi.vercel.app/graph?username=greatnnaji&theme=tokyo-night&hide_border=true&area=true" />
 </div>

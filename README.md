@@ -38,22 +38,22 @@
 
 <h3 align="left">GitHub Summary</h3>
 <p align="center">
-  <img src="/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%" />
-  <img src="/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%" />
+  <img src="https://raw.githubusercontent.com/greatnnaji/greatnnaji/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" width="49%" />
+  <img src="https://raw.githubusercontent.com/greatnnaji/greatnnaji/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" width="49%" />
 </p>
 
 ## Stats
 <!-- Streak -->
 <div align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/greatnnaji/greatnnaji/main/profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 <!-- Profile summary cards -->
 <div align="center">
-  <img src="https://github.com/greatnnaji/greatnnaji/raw/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/greatnnaji/greatnnaji/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
 </div>
 
 <!-- Activity graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph-eight-phi.vercel.app/graph?username=greatnnaji&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph-eight-phi.vercel.app/graph?username=greatnnaji&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>

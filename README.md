@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Great Nnaji</h1>
 
-<h3 align="center">Final Year Computer Science Student • Software Engineer • Building full-stack systems and backend infrastructure</h3>
+<h3 align="center">Final Year Computer Science Student • Software Developer • Building full-stack systems and backend infrastructure</h3>
 
 <p align="center">
   <a href="https://greatnnaji.com" target="_blank">
